@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "hayward-footprint-library")(type "KiCad")(uri "${KIPRJMOD}/hayward-footprint-library.pretty")(options "")(descr ""))
+)
